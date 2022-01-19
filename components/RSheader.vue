@@ -8,13 +8,13 @@
 				<nav class="col">
 					<ul class="d-flex">
 						<li>
+							<NuxtLink to="/">Главная</NuxtLink>
+						</li>
+						<li>
 							<NuxtLink to="/services">Услуги</NuxtLink>
 						</li>
 						<li>
-							<NuxtLink to="/portfolio">Портфолио</NuxtLink>
-						</li>
-						<li>
-							<NuxtLink to="/about_us">О нас</NuxtLink>
+							<NuxtLink to="/news">Новости</NuxtLink>
 						</li>
 						<li>
 							<NuxtLink to="/404">404</NuxtLink>

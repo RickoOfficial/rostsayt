@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<RSheader />
-		<div class="container">
+		<div class="container mt-5">
 			<Nuxt />
 		</div>
 	</div>
